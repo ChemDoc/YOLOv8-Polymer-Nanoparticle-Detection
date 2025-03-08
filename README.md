@@ -13,8 +13,8 @@ Based on the study "Multicompartment Vesicles: A Key Intermediate Structure in P
 The program utilizes three different YOLOv8 models (YOLOv8n, YOLOv8s, and YOLOv8m) to perform multi-scale detection of nanoparticles. The models process the input TEM images separately, and their predictions are merged using a weighted box fusion (WBF) technique. This improves detection accuracy and reduces false positives.
 After detection, the bounding boxes are converted from pixels to nanometers based on the scale bar, allowing precise size measurements and statistical analysis of nanoparticle distribution.
 
-3-Dataset Availability:
-The annotated TEM images and training code are available on Zenodo.
+3-Dataset & models Availability:
+The annotated TEM images, training code and models are available on Zenodo.
 
 4- The models were trained using the following hardware and software setup:
 CPU: Intel Core(TM) i7-1068NG7 2.30GHz
