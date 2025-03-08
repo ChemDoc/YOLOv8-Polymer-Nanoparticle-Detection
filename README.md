@@ -15,3 +15,10 @@ After detection, the bounding boxes are converted from pixels to nanometers base
 
 3-Dataset Availability:
 The annotated TEM images and training code are available on Zenodo.
+
+4- The models were trained using the following hardware and software setup:
+CPU: Intel Core(TM) i7-1068NG7 2.30GHz
+OS: Ubuntu 20.04
+Python Version: 3.12.9
+Torch Version: 2.2.2 (CPU)
+Framework: PyTorch 2.0 + Ultralytics YOLOv8
