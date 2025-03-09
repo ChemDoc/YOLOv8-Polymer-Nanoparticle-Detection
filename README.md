@@ -1,4 +1,4 @@
-# YOLOv8-Polymer-Nanoparticle-Detection
+# YOLOv8-Polymer-Nanoparticle-Detection 
 This project applies YOLOv8 for the detection and morphological analysis of polymer nanoparticles observed via Transmission Electron Microscopy (TEM). The goal is to classify different nanostructures and measure their dimensions based on a scale bar for accurate size conversion.
 
  1-Detected Nanoparticle Types:
@@ -21,4 +21,4 @@ Torch Version: 2.2.2 (CPU)
 Framework: PyTorch 2.0 + Ultralytics YOLOv8
 
 4- Data, code and models availability:
-This repository does not contain the code, models, or labeled TEM images directly. Everything is hosted on Zenodo.
+This repository does not contain the code, models, or labeled TEM images directly. Everything is hosted on Zenodo (10.5281/zenodo.14995364).
