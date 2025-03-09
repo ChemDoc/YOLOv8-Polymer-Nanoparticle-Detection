@@ -22,3 +22,6 @@ Framework: PyTorch 2.0 + Ultralytics YOLOv8
 
 4- Data, code and models availability:
 This repository does not contain the code, models, or labeled TEM images directly. Everything is hosted on Zenodo (10.5281/zenodo.14995364).
+
+5-Citation & DOI
+This project is archived on Zenodo:  [![DOI](https://zenodo.org/badge/945213188.svg)](https://doi.org/10.5281/zenodo.14995481)
